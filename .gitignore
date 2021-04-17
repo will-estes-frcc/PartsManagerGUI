@@ -1,0 +1,7 @@
+.idea
+dist
+build
+__pycache__
+venv
+store.db
+part_manager.spec
